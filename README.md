@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ainishchal" target="blank"><img src="https://img.shields.io/twitter/follow/ainishchal?logo=twitter&style=for-the-badge" alt="ainishchal" /></a> </p>
 
-- 🌱 I’m currently learning **Android App Development & ML**
+- 🌱 I’m currently learning **Software Development & ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ainishchal/](https://github.com/ainishchal/)
 
